@@ -48,6 +48,7 @@ const About = () => {
                 <LinkedInIcon />
               </a>
             )}
+            
             {social.twitter && (
               <a
                 href={social.twitter}
